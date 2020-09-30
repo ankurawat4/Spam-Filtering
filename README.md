@@ -48,5 +48,10 @@ spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus Caller Priz
 
 
 
-Word Cloud (fig_1
-![alt text](https://github.com/ankurawat4/Twitter-Sentiment-Analysis/blob/master/Fig_2.png)
+Word Cloud (fig_1)
+![alt text](https://github.com/ankurawat4/Spam-Filtering/blob/master/fig_1.png)
+
+
+Classification Report (fig_2)
+![alt text](https://github.com/ankurawat4/Spam-Filtering/blob/master/fig_2.png)
+
