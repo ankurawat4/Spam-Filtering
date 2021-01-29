@@ -1,7 +1,6 @@
 # Spam-Filtering
 This Project classifies Spam or ham messages.
 
-
 SMS Spam Collection v.1
 -------------------------
 
